@@ -1,3 +1,6 @@
+//Mina Ünal
+
+
 #include <stdio.h>
 #define ROW1 2
 #define COMMON 4
